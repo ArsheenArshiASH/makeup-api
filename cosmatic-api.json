@@ -1,0 +1,425 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Velvet Matte Lipstick",
+      "brand": "GoldenRose",
+      "category": "Lips",
+      "product_type" : "Lipstick" ,
+      "rating": 4.7,
+      "price": 15.99,
+      "description": "Golden Rose Velvet Matte Lipstick creates matte velvety finish on the lips with its high pigmented and long wearing formula. Smoothly glides, nourishes and hydrates your lips thanks to moisturizing agent and Vitamin E in the formula. From pure red to nude, it is available in 39 rich shade alternatives.  The formulation is paraben free and dermatologically tested.",
+      "images": [
+        "https://www.goldenrose.com.pk/cdn/shop/products/velvet-matte-lipstick-462090_1000x1000.jpg?v=1696421685",
+        "https://www.goldenrose.com.pk/cdn/shop/products/velvet-matte-lipstick-846602_600x.jpg?v=1696421691"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Hydrating Glow Foundation",
+      "brand": "GlowSkin",
+      "category": "Face",
+      "product_type" : "Foundation" ,
+      "rating": 4.5,
+      "price": 24.99,
+      "description": "Lightweight foundation with natural finish and 24-hour hydration.It gives your face excellent result.       Creates natural appearance, good coverage, smooth and velvety skin.",
+      "images": [
+        "https://www.goldenrose.com.pk/cdn/shop/products/stick-foundation-992244_600x.jpg?v=1696416485",
+        "https://www.goldenrose.com.pk/cdn/shop/products/stick-foundation-465905_600x.jpg?v=1692104400"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Rose Water Face Mist",
+      "brand": "PureEssence",
+      "category": "Face",
+      "product_type" : "Mist",
+      "rating": 4.8,
+      "price": 12.50,
+      "description": "Refreshing rose water face mist that soothes and tones skin. Used as a facial toner to hydrate, soothe, and refresh skin. It may also have mild antibacterial properties that help reduce certain bacteria on the skin.",
+      "images": [
+        "https://media.istockphoto.com/id/1008118858/photo/beautiful-perfume-bottles-on-pink-background.jpg?s=2048x2048&w=is&k=20&c=p5yokRih4ZS4AUmdq9_nHp1fgzRl0A7AaV8jP2r1ulM=" ,
+        "https://media.istockphoto.com/id/2236000880/photo/rose-perfume.jpg?s=2048x2048&w=is&k=20&c=JzCK9BoJT6nmuZtsXVK9v0ny0FoUXX4poDFM4LK8Hi8="
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Deep Black Mascara",
+      "brand": "EyeCharm",
+      "category": "Eyes",
+      "product_type" : "Mascara" ,
+      "rating": 4.6,
+      "price": 18.00,
+      "description": "An innovative formula that gives mega volume and length to the lashes. Its two sided f lexible brush, curls, separates and creates mega volumed and ultra black lashes",
+      "images": [
+        "https://www.goldenrose.com.pk/cdn/shop/products/mega-volume-length-city-style-mascara-427836_600x.jpg?v=1696426333",
+        "https://www.goldenrose.com.pk/cdn/shop/products/mega-volume-length-city-style-mascara-249994_600x.jpg?v=1692119629"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Nourishing Lipstick",
+      "brand": "Elf",
+      "category": "Lips",
+      "product_type" : "Lipstick" ,
+      "rating": 4.4,
+      "price": 5.99,
+      "description": "Ultra-hydrating lip stick with organic shea butter and vitamin E. This Velvet Matte Lipstick creates matte velvety finish on the lips with its high pigmented and long wearing formula. Smoothly glides, nourishes and hydrates your lips thanks to moisturizing agent and Vitamin E in the formula. From pure red to nude, it is available in 39 rich shade alternatives.  The formulation is paraben free and dermatologically tested.",
+      "images": [
+        "https://coderplace.net/woo/WCM05/WCM05103/wp-content/uploads/2024/08/a1-3.jpg",
+        "https://coderplace.net/woo/WCM05/WCM05103/wp-content/uploads/2024/08/a2-3.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Radiant Blush Powder",
+      "brand": "ColorPop",
+      "category": "Face",
+      "product_type" : "Blush",
+      "rating": 4.6,
+      "price": 14.25,
+      "description": "Soft, blendable , velvety smooth powder that creates a flawless complexion on all skin types and skin tones. Set and mattify your foundation with this translucent formula that glides on extra-smooth.",
+      "images": [
+        "https://bbabysuleman.com/cdn/shop/files/delivate_rose.jpg?v=1725004412&width=990",
+        "https://bbabysuleman.com/cdn/shop/files/swatches_f0d95da2-65fb-4fc5-b619-19387b60ceec.jpg?v=1725955928&width=990"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Matte Foundation",
+      "brand": "FaceFix",
+      "category": "face",
+      "product_type": "Foundation",
+      "rating": 4.3,
+      "price": 15.99,
+      "description": "A rich matte and light founadtion for clear skin and glow",
+      "images": [
+        "https://images.unsplash.com/photo-1557205465-f3762edea6d3?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1679750866885-d3b7d2177711?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Flattering Color Lipstick",
+      "brand": "GlowSkin",
+      "category": "Lips",
+      "product_type": "Lipstick",
+      "rating": 4.7,
+      "price": 16.75,
+      "description": "Creamy color with a weightless finish and flattering color pigments in a lip-loving, comfortable formula. Infused with grape seed oil and vitamin E for healthy lips. Shades that made us famous like Very Peachy and Vintage Pink have their own cult following.",
+      "images": [
+        "https://iloveluscious.com/cdn/shop/files/uptown_red.png?v=1759998635&width=823",
+        "https://iloveluscious.com/cdn/shop/files/3_91a10867-b798-4886-8d31-480047d7acf3.png?v=1759998635&width=823"
+      ]
+    },
+    {
+      "id": 9,
+      "name": " Velvet Lipstick - Apple Cider",
+      "brand": "ST London",
+      "category": "Lips",
+      "product_type" : "Lipstick",
+      "rating": 4.5,
+      "price": 11.99,
+      "description": "Ultra-Matte bullet combines explosive colour payoff and 8hours of superior comfort.",
+      "images": [
+        "https://www.makeupcityshop.com/cdn/shop/files/5060390411386_3a87a262-d906-41de-be9b-7d3cd6203dee.jpg?v=1756467159",
+        "https://www.makeupcityshop.com/cdn/shop/files/50603904113862.jpg?v=1756467159"
+      ]
+    },
+        {
+      "id": 10,
+      "name": "3D Fantastic Lash Mascara",
+      "brand": "3d fantastic",
+      "category": "Eyes",
+      "product_type" : "Mascara",
+      "rating": 4.6,
+      "price": 10.00,
+      "description": "An innovative formula that gives mega volume and length to the lashes. Its two sided f lexible brush, curls, separates and creates mega volumed and ultra black lashes",
+      "images": [
+        "https://www.goldenrose.com.pk/cdn/shop/products/3d-fantastic-lash-mascara-742796_600x.jpg?v=1692143761",
+        "https://www.goldenrose.com.pk/cdn/shop/products/3d-fantastic-lash-mascara-133302_600x.jpg?v=1717249213"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Matte Compact Powder",
+      "brand": "FaceFix",
+      "category":"Face" ,
+      "product_type": "Compact",
+      "rating": 4.2,
+      "price": 10.99,
+      "description": "Oil-control compact powder that sets makeup and reduces shine.",
+      "images": [
+        "https://iloveluscious.com/cdn/shop/files/0_Hero.png?v=1759998527&width=823",
+        "https://iloveluscious.com/cdn/shop/files/0_Softlight_Powder.png?v=1759987312&width=823"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Diamond Breeze Shimmering Lip Topper",
+      "brand": "FreshGlow",
+      "category": "Lips",
+      "product_type": "Lipstick",
+      "rating": 4.6,
+      "price": 13.49,
+      "description": "A gorgeous high shine lip topper glides flawlessly to make your lips shine like diamonds. Wear alone or on your favorite lip color.",
+      "images": [
+        "https://www.goldenrose.com.pk/cdn/shop/products/diamond-breeze-shimmering-lip-topper-new-655703_600x.jpg?v=1696426404",
+        "https://www.goldenrose.com.pk/cdn/shop/products/diamond-breeze-shimmering-lip-topper-new-491370_600x.jpg?v=1692141854"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Soft Kohl Eyeliner",
+      "brand": "EyeCharm",
+      "category": "Eyes",
+      "product_type": "Eyeliner" ,
+      "rating": 4.3,
+      "price": 7.99,
+      "description": "Create your dream flick with the Relove Slick Flick Eyeliner. This ultra-black formula eyeliner is encased in a pen-shaped body for a pigmented, simple and controlled application. Whether you’re just learning or an expert, this eyeliner will help you achieve a seamless, lasting wing every time.",
+      "images": [
+        "https://www.makeupcityshop.com/cdn/shop/products/RelovebyRevolutionSlickFlickEyelinerBlack.jpg?v=1665487212",
+        "https://www.makeupcityshop.com/cdn/shop/products/RelovebyRevolutionSlickFlickEyelinerBlack2.jpg?v=1665487212"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Mineralz Loose Powder",
+      "brand": "ST London",
+      "category": "Face",
+      "product_type" : "Compact",
+      "rating": 4.7,
+      "price": 14.99,
+      "description": "Ultra-fine loose powder that sets your foundation flawlessly, making the skin look smooth, healthy and youthful. Gives a soft blur effect and adds just the right amount of coverage. Benefits: Skin-like, soft finish, weightless feel, SPF 15. How to use or apply:Lightly apply on to the face using the powder puff in the package or apply using the ST London powder brush.",
+      "images": [
+        "https://www.makeupcityshop.com/cdn/shop/products/STLondon-MineralzLoosePowder-Beige_98b359da-90bc-41ca-b8ba-3748ef2f68d4.jpg?v=1668674105",
+        "https://www.makeupcityshop.com/cdn/shop/products/STLondon-MineralzLoosePowder-Sand_d624a4d3-8288-456e-8f54-5d30ba207a61.jpg?v=1668674105"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Longstay Blush Trio",
+      "brand": "LuxeBeauty",
+      "category": "Face",
+      "product_type":"Blush" ,
+      "rating": 4.4,
+      "price": 19.99,
+      "description": "Highly pigmented highlighter that adds a radiant glow to your features.",
+      "images": [
+        "https://www.goldenrose.com.pk/cdn/shop/products/longstay-blush-trio-535256_600x.jpg?v=1692121807",
+        "https://www.goldenrose.com.pk/cdn/shop/products/longstay-blush-trio-293050_600x.jpg?v=1717251268"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Bright Illuminating Concealer",
+      "brand": "Revolution",
+      "category": "Eyes",
+      "product_type": "Concealer" ,
+      "rating": 4.5,
+      "price": 8.50,
+      "description": "Tired eyes, THIS is your wakeup call! Revolution’s Eye Bright Concealer has been specially formulated to target under-eye circles, offering flexible buildable coverage with a max-level hit of vitamin C to actively treat the area as you conceal! Featuring a fluffy flocked sponge applicator, this brightening concealer can be used to conceal blemishes, redness and seamlessly erase under eye bags for an instantly brightened effect.The smooth, creamy formula blends beautifully for an undetectable finish- no retouch required!",
+      "images": [
+        "https://www.makeupcityshop.com/cdn/shop/products/MakeupRevolutionEyeBrightIlluminatingUnderEyeConcealerFair3ml.jpg?v=1699440084",
+        "https://www.makeupcityshop.com/cdn/shop/products/MakeupRevolutionEyeBrightIlluminatingUnderEyeConcealerFair3ml2.jpg?v=1699440084"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Relove Baby Gloss Lip Gloss - Sugar",
+      "brand": "Revolution",
+      "category": "Lips",
+      "product_type" : "Lipstick",
+      "rating": 4.6,
+      "price": 5.99,
+      "description": "Fall in love with affordable beauty. The Relove collection is everything you need to create beautiful looks with quality ingredients at an even more affordable price.Hot glossip! The Relove Baby Lip Gloss collection includes 8 cute and compact on-the-go glosses for that luscious glossy lip finish. A super glossy, high-shine formula at an amazing value.",
+      "images": [
+        "https://www.makeupcityshop.com/cdn/shop/products/RelovebyRevolutionBabyGlossLipGlossSugar.jpg?v=1665487530",
+        "https://www.makeupcityshop.com/cdn/shop/products/RelovebyRevolutionBabyGlossLipGlossSugar2.jpg?v=1665487530"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Relove Lipliner - Sugar",
+      "brand": "Revolution",
+      "category": "Lips",
+      "product_type" : "Lipliner",
+      "rating": 4.8,
+      "price": 22.99,
+      "description": "It is time to pout it out… Introducing the newest addition to our super sweet, amazingly affordable family: the Relove Lipliner. Available in 8 stunning shades",
+      "images": [
+        "https://www.makeupcityshop.com/cdn/shop/products/RelovebyRevolutionLiplinerSugar.jpg?v=1665487449",
+        "https://www.makeupcityshop.com/cdn/shop/products/RelovebyRevolutionLiplinerSugar2.jpg?v=1665487449"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Radiant Concealer - 4 Cool Natural",
+      "brand": "Suleman",
+      "category": "Eyes",
+      "product_type" : "Concealer",
+      "rating": 4.4,
+      "price": 6.99,
+      "description": "Our radiant, creamy concealer delivers all purpose, perfect for all skin tones.",
+      "images": [
+        "https://www.makeupcityshop.com/cdn/shop/files/8961101595340.png?v=1722422816",
+        "https://www.makeupcityshop.com/cdn/shop/files/8961101595340_202.jpg?v=1722422816"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Lamel - BB Blush",
+      "brand": "Lamel",
+      "category": "Face",
+      "product_type" : "Blush",
+      "rating": 4.6,
+      "price": 9.99,
+      "description": "Lightweight cream blush BB Blush is ideally suited to refresh your makeup, give your face more resting the appearance or shade tanning, have a creamy texture that is easily distributed in the skin and held throughout the day.",
+      "images": [
+        "https://www.makeupcityshop.com/cdn/shop/files/new25060994137453.jpg?v=1731045252",
+        "https://www.makeupcityshop.com/cdn/shop/files/new25060994137453-4.jpg?v=1731045252"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Sparkling Eye Pencil",
+      "brand": "ST London",
+      "category": "Eyes",
+      "product_type" : "Eyeliner" ,
+      "rating": 4.5,
+      "price": 12.99,
+      "description": "Soft, sparkling eye pencil, perfect to add a pop of shimmer to the eyes. Use it in the waterline or as an eyeliner and let that shimmer glide.Benefits:Comfortable wear, soft and easy to glide. Deposits vibrant color that lasts all day.",
+      "images": [
+        "https://www.makeupcityshop.com/cdn/shop/products/st-london---sparkling-eye-pencil---turquoise.jpg?v=1666877231",
+        "https://www.makeupcityshop.com/cdn/shop/products/st-london---sparkling-eye-pencil---gold.jpg?v=1666877231"
+      ]
+    }
+    ,{
+      "id": 22,
+      "name": "Mystic Romance Mascara",
+      "brand": "Mystic Romance",
+      "category": "Eyes",
+      "product_type" : "Mascara",
+      "rating": 4.5,
+      "price": 12.99,
+      "description": "Smooth, lightweight , dark mascara that add volumes to your lashes and adds shine.",
+      "images": [
+        "https://www.goldenrose.com.pk/cdn/shop/products/mystic-romance-mascara-233253_600x.jpg?v=1692111602",
+        "https://www.goldenrose.com.pk/cdn/shop/products/mystic-romance-mascara-362343_600x.jpg?v=1696426585"
+      ]
+    },
+        {
+      "id": 23,
+      "name": "Longstay Liquid Matte Lipstick",
+      "brand": "GoldenRose",
+      "category": "Lips",
+      "product_type" : "Lipstick",
+      "rating": 4.7,
+      "price": 15.99,
+      "description": "A rich matte lipstick that delivers intense color and long-lasting comfort.",
+      "images": [
+        "https://www.goldenrose.com.pk/cdn/shop/products/longstay-liquid-matte-lipstick-325798_600x.jpg?v=1692121068",
+        "https://www.goldenrose.com.pk/cdn/shop/products/longstay-liquid-matte-lipstick-555731_600x.jpg?v=1692121074"
+      ]
+    } ,
+        {
+      "id": 24,
+      "name": "Relove Lipliner - Glam",
+      "brand": "Revolution",
+      "category": "Lips",
+      "product_type" : "Lipliner",
+      "rating": 4.7,
+      "price": 15.99,
+      "description": "It is time to pout it out… Introducing the newest addition to our super sweet, amazingly affordable family: the Relove Lipliner. Available in 8 stunning shades",
+      "images": [
+        "https://www.makeupcityshop.com/cdn/shop/products/RelovebyRevolutionLiplinerGlam.jpg?v=1665487453",
+        "https://www.makeupcityshop.com/cdn/shop/products/RelovebyRevolutionLiplinerGlam2.jpg?v=1665487453"
+      ]
+    } ,
+        {
+      "id": 25,
+      "name": "Longstay Liquid Matte Lipstick",
+      "brand": "Revolution",
+      "category": "Eyes", 
+      "product_type" : "Mascara",
+      "rating": 4.7,
+      "price": 15.99,
+      "description": "Altimate mascara to create 3D volume and a stunning ‘billion lash’ look.Formulated with a high % of natural and synthetic waxes to create a super filming structure. The weightless texture paired with an hour glass brush catches, separates and coats each lash for an unbelievably stunning volumized look. The water-resistant formula lasts yet comes off easily with warm water. 3D Billion Mascara is ophthalmologist-tested, safe for contact lens wearers.",
+      "images": [
+        "https://www.makeupcityshop.com/cdn/shop/files/STLondon-3DBillionMascara.jpg?v=1699374211",
+        "https://www.makeupcityshop.com/cdn/shop/files/STLondon-3DBillionMascara3.jpg?v=1698310371"
+      ]
+    } ,
+        {
+      "id": 26,
+      "name": "Relove Super HD Setting Powder",
+      "brand": "Revolution",
+      "category": "Face",
+      "product_type" : "Compact",
+      "rating": 4.7,
+      "price": 15.99,
+      "description": "Remove shine and mattify with the Relove Super HD Setting Powder. A lightweight universal setting powder ready to dampen down unwanted shine.",
+      "images": [
+        "https://www.makeupcityshop.com/cdn/shop/products/RelovebyRevolutionSuperHDSettingPowder4.jpg?v=1665487406",
+        "https://www.makeupcityshop.com/cdn/shop/products/RelovebyRevolutionSuperHDSettingPowder2.jpg?v=1665487406"
+      ]
+    } ,
+        {
+      "id": 27,
+      "name": "Long-Lasting Lipstick - Pin Me Pink",
+      "brand": "ST London",
+      "category": "Lips",
+      "product_type" : "Lipstick",
+      "rating": 4.7,
+      "price": 15.99,
+      "description": "This lipstick fuses high-impact colour with weightless decadence for the ultimate sensation in lip colour. The custom-curved bullet is sculpted to envelop lips and create luminous glowing finish in one silky swipe.",
+      "images": [
+        "https://www.makeupcityshop.com/cdn/shop/files/5060390412932_8c7f6ad4-c856-4c5c-8260-f42ac4e4ba85.jpg?v=1756467569",
+        "https://www.makeupcityshop.com/cdn/shop/files/50603904129322.jpg?v=1756467569"
+      ]
+    } ,
+        {
+      "id": 28,
+      "name": "Fast Base Stick Foundation - F2",
+      "brand": "Revolution",
+      "category": "Face",
+      "product_type" : "Foundation",
+      "rating": 4.7,
+      "price": 15.99,
+      "description": "Foundation just got faster! Launching in 18 shades and a range of undertones, Fast Base Foundation quickly perfects, contours and highlights your complexion. The easy-to-apply stick formula melts into skin, blending seamlessly to leave a fresh and dewy finish.",
+      "images": [
+        "https://www.makeupcityshop.com/cdn/shop/products/FastBaseStickFoundation-F2.jpg?v=1665487251",
+        "https://www.makeupcityshop.com/cdn/shop/products/FastBaseStickFoundation-F22.jpg?v=1665487251"
+      ]
+    } ,
+        {
+      "id": 29,
+      "name": "Eyeliner- With A Twist",
+      "brand": "Gosh",
+      "category": "Eyes",
+      "product_type" : "Eyeliner",
+      "rating": 4.7,
+      "price": 15.99,
+      "description": "ATHE ULTIMATE EYE LINER - WITH A TWIST, is a soft and precise eye liner with excellent and even colour pay-off. The sharpener is at the same end as the smudger, which can be pulled out.",
+      "images": [
+        "https://www.makeupcityshop.com/cdn/shop/products/ultimateeyeliner_04_camouflagegreen_d0ec6355-40e5-4b61-a55c-0b8cda8d79c1.jpg?v=1657877593",
+        "https://www.makeupcityshop.com/cdn/shop/products/gosh--the-ultimate-eyeliner---with-a-twist--07-carbon-black---3_e0548e35-08f3-4de2-b796-6f728815c8c4.jpg?v=1657877593"
+      ]
+    } ,
+        {
+      "id": 30,
+      "name": " Ultra Blush Palette Sugar & Spice",
+      "brand": "Revolution",
+      "category": "Face",
+      "product_type" : "Blush",
+      "rating": 4.7,
+      "price": 15.99,
+      "description": "A rich matte lipstick that delivers intense color and long-lasting comfort.",
+      "images": [
+        "https://www.makeupcityshop.com/cdn/shop/products/makeup-revolution-ultra-blush-palette-sugar-and-spice.jpg?v=1665487174",
+        "https://www.makeupcityshop.com/cdn/shop/products/makeup_revolution_ultra_blush_and_contour_palette_-_sugar_and_spice1.jpg?v=1665487174"
+      ]
+    } 
+  ]
+}
+
