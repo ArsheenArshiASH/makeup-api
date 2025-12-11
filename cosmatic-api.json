@@ -38,8 +38,8 @@
       "price": 12.50,
       "description": "Refreshing rose water face mist that soothes and tones skin. Used as a facial toner to hydrate, soothe, and refresh skin. It may also have mild antibacterial properties that help reduce certain bacteria on the skin.",
       "images": [
-        "https://media.istockphoto.com/id/1008118858/photo/beautiful-perfume-bottles-on-pink-background.jpg?s=2048x2048&w=is&k=20&c=p5yokRih4ZS4AUmdq9_nHp1fgzRl0A7AaV8jP2r1ulM=" ,
-        "https://media.istockphoto.com/id/2236000880/photo/rose-perfume.jpg?s=2048x2048&w=is&k=20&c=JzCK9BoJT6nmuZtsXVK9v0ny0FoUXX4poDFM4LK8Hi8="
+        "https://pk.herbion.com/products/rose-water?srsltid=AfmBOopAMUFU6nINspttEjQi8I0hlKwOeY9-9_ay9qKyvcTVECqh3xNU#mz-expanded-view-913419670731" ,
+        "https://pk.herbion.com/products/rose-water?srsltid=AfmBOopAMUFU6nINspttEjQi8I0hlKwOeY9-9_ay9qKyvcTVECqh3xNU#mz-expanded-view-913419670731"
       ]
     },
     {
@@ -350,6 +350,20 @@
         "https://www.makeupcityshop.com/cdn/shop/files/STLondon-3DBillionMascara3.jpg?v=1698310371"
       ]
     } ,
+                {
+      "id": 32,
+      "name": "Makeup Primer 50ml",
+      "brand": "MoonTouch",
+      "category": "Face",
+      "product_type" : "Primer",
+      "rating": 4.7,
+      "price": 9.99,
+      "description": "Transform your makeup routine with our Makeup Primer, designed to create the perfect canvas for a flawless look. Ideal for all skin types, this lightweight, non-greasy formula minimizes pores, smooths fine lines, and controls excess oil, ensuring your makeup stays fresh all day..",
+      "images": [
+        "https://moontouch.co/cdn/shop/files/Makeup_Primer.jpg?v=1752319017",
+        "https://moontouch.co/cdn/shop/files/Primer_01.jpg?v=1752319017"
+      ]
+    } ,
         {
       "id": 26,
       "name": "Relove Super HD Setting Powder",
@@ -418,6 +432,118 @@
       "images": [
         "https://www.makeupcityshop.com/cdn/shop/products/makeup-revolution-ultra-blush-palette-sugar-and-spice.jpg?v=1665487174",
         "https://www.makeupcityshop.com/cdn/shop/products/makeup_revolution_ultra_blush_and_contour_palette_-_sugar_and_spice1.jpg?v=1665487174"
+      ]
+    } ,
+            {
+      "id": 31,
+      "name": " Ultra Smooth Primer",
+      "brand": "Flormar",
+      "category": "Face",
+      "product_type" : "Primer",
+      "rating": 4.7,
+      "price": 15.99,
+      "description": "Flormar Illuminating Primer Make-up Base 30ml is a must-have for achieving a radiant, long-lasting makeup look. Infused with light-reflecting particles, this primer creates a luminous glow while preparing the skin for foundation application. It smooths uneven texture, minimizes the appearance of pores, and enhances skin hydration, ensuring makeup glides on effortlessly and stays fresh longer. The lightweight formula feels comfortable on the skin without clogging pores, making it suitable for all skin types, including sensitive skin. Whether worn alone for a natural glow or under makeup for enhanced radiance, this primer helps create a flawless base that lasts throughout the day.",
+      "images": [
+        "https://flormar.pk/cdn/shop/files/8690604164660_1_1800x1800.jpg?v=1755491679",
+        "https://flormar.pk/cdn/shop/files/8690604164660_4_1800x1800.jpg?v=1755491679"
+      ]
+    } ,
+            {
+      "id": 33,
+      "name": "Maybelline Baby Skin Instant Pore Eraser Primer",
+      "brand": "Maybelline",
+      "category": "Face",
+      "product_type" : "Primer",
+      "rating": 4.7,
+      "price": 15.99,
+      "description": "Maybelline New York Baby Skin Instant Pore Eraser Primer will help you achieve a smooth, perfect complexion. The appearance of pores is instantly blurred by this breathable, light primer, leaving your skin feeling smooth and matte. Its gel-like consistency applies smoothly to the skin, giving it a poreless, natural appearance when worn alone or a smooth foundation for makeup application.",
+      "images": [
+        "https://theskinfit.com/cdn/shop/files/maybelline-baby-skin-instant-pore-eraser-primer-22ml-1.jpg?v=1750106616&width=1200",
+        "https://theskinfit.com/cdn/shop/files/maybelline-baby-skin-instant-pore-eraser-primer-22ml-3.jpg?v=1750106624&width=1200"
+      ]
+    } ,
+            {
+      "id": 34,
+      "name": "Maybelline Fit Me Concealer With Chamomile Extract",
+      "brand": "Revolution",
+      "category": "Eyes",
+      "product_type" : "Concealer",
+      "rating": 4.7,
+      "price": 10.10,
+      "description": "A rich matte lipstick that delivers intense color and long-lasting comfort.",
+      "images": [
+        "https://theskinfit.com/cdn/shop/files/maybelline-new-york-fit-me-concealer-40-caramel-6-8ml-1.jpg?v=1760515533&width=1200",
+        "https://theskinfit.com/cdn/shop/files/maybelline-new-york-fit-me-concealer-15-fair-6-8ml_11.jpg?v=1760515533&width=1200"
+      ]
+    } ,
+            {
+      "id": 35,
+      "name": "Maybelline Instant Age Rewind Eraser Multi-Use Concealer",
+      "brand": "Maybelline",
+      "category": "Eyes",
+      "product_type" : "Concealer",
+      "rating": 4.7,
+      "price": 15.99,
+      "description": "A rich matte lipstick that delivers intense color and long-lasting comfort.",
+      "images": [
+        "https://theskinfit.com/cdn/shop/files/maybelline-new-york-instant-age-rewind-eraser-multi-use-concealer-130-medium-6ml-1.jpg?v=1747991119&width=1200",
+        "https://theskinfit.com/cdn/shop/files/maybelline-new-york-instant-age-rewind-eraser-multi-use-concealer-130-medium-6ml-3.jpg?v=1747991120&width=3840"
+      ]
+    } ,
+            {
+      "id": 36,
+      "name": "Unleashia Bye Bye My Blemish Concealer 0.5 Fair",
+      "brand": "Unleashia",
+      "category": "Eyes",
+      "product_type" : "Concealer",
+      "rating": 4.7,
+      "price": 15.99,
+      "description": "Unleashia Bye Bye My Blemish Concealer in 0.5 Fair is a skin-caring, spot-correcting formula designed to cover imperfections while treating them at the same time. This lightweight concealer targets blemishes, redness, and post-acne marks with a soft matte finish that stays breathable and natural-looking throughout the day.",
+      "images": [
+        "https://theskinfit.com/cdn/shop/files/Unleashia_045.jpg?v=1747987170&width=1200",
+        "https://theskinfit.com/cdn/shop/files/unleashia-bye-bye-my-blemish-concealer-no-0-5-fair-1-piece_1.jpg?v=1747987171&width=1200"
+      ]
+    } ,
+                {
+      "id": 37,
+      "name": "Base Primer",
+      "brand": "MissRose",
+      "category": "Face",
+      "product_type" : "Primer",
+      "rating": 4.7,
+      "price": 9.99,
+      "description": "Missrose Makeup Base Primer is a refreshing gel texture that allows the skin to breathe easily. It makes the skin smooth and delicate, while hiding the pores and controlling the smooth feeling and give you flawless look . It absorbs fat-containing oil control powder to reduce fine lines and keep fine & protects the skin from external make-up and damage invisibility. It makes makeup easy to fix and long time laser.",
+      "images": [
+        "https://missrose.com.pk/cdn/shop/files/Miss_Rose_Makeup_Base_Primer_-_Miss_Rose_Com_Pk.png?v=1750753272&width=990",
+        "https://missrose.com.pk/cdn/shop/files/8_3c4a8695-60f6-4782-8c61-e62bf1c38bdb.png?v=1750753272&width=990"
+      ]
+    } ,
+                {
+      "id": 38,
+      "name": "Standout Buildable Mascara",
+      "brand": "KiKo",
+      "category": "Eyes",
+      "product_type" : "Mascara",
+      "rating": 4.7,
+      "price": 9.99,
+      "description": "The 3D elastomer brush combs through the lashes neatly and gives them a panoramic volume-enhancing effect, with dual-action: the concave area applies the mascara by enveloping the lashes, the convex area combs and defines them. The particular shape of the brush is ideal for a buildable volume-enhancing effect, without sacrificing definition.",
+      "images": [
+        "https://kikocosmetics.pk/cdn/shop/files/kiko_KM000000320001B_01_1024x1024.webp?v=1752043821",
+        "https://kikocosmetics.pk/cdn/shop/files/kiko_KM000000319001B_02_3e67fdba-ee5d-4589-915d-39e8689a1990_1024x1024.webp?v=1752044609"
+      ]
+    } ,
+                {
+      "id": 39,
+      "name": "Matte Base Primer",
+      "brand": "KiKo",
+      "category": "Face",
+      "product_type" : "Primer",
+      "rating": 4.7,
+      "price": 20.99,
+      "description": "The formula contains absorbent powders that create a soft-focus effect that conceals skin imperfections and shiny areas. The product improves the application and hold of your foundation. The product is easy to apply, thanks to its handy tube with its eye drop-style tip. The packaging stands out with the elegant gunmetal-colored cap with the KK logo embossed on the top",
+      "images": [
+        "https://kikocosmetics.pk/cdn/shop/files/kiko_KM0010801100144_01_374db072-ce81-46f7-9077-039edca97279_1024x1024.webp?v=1752044075",
+        "https://kikocosmetics.pk/cdn/shop/files/kiko_KM0010801100144_02_f02b31a1-155b-4500-abae-a09ca9dcb8dd_1024x1024.webp?v=1752044076"
       ]
     } 
   ]
